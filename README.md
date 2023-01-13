@@ -1,5 +1,7 @@
 # FHIR Validator Docker Image
 
+[![Docker](https://github.com/cybernop/fhir-validator-docker/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/cybernop/fhir-validator-docker/actions/workflows/docker-publish.yml)
+
 This respository provides a Docker image for using the FHIR Validator CLI from https://github.com/hapifhir/org.hl7.fhir.core without installing Java on your local machine.
 
 This allows to validate one or multiple FHIR resources against an IG and/or a profile.
